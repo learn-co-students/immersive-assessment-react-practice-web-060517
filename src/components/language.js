@@ -4,8 +4,8 @@ const Language = () => {
   return(
     <p>
       // language name
-    <p>
+    </p>
   )
 }
 
-export default Langauge
+export default Language

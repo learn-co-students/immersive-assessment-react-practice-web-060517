@@ -4,12 +4,6 @@ import Paradigm from './paradigm'
 const LanguagesContainer = () => {
   return (
     <div className="container">
-      <Paradigm />
-      <Paradigm />
-
-      <Paradigm />
-      <Paradigm />
-
 
     </div>
   )
